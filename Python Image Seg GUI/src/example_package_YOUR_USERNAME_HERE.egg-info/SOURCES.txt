@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+sample_imgs/blur.png
+sample_imgs/crop.png
+sample_imgs/flip.png
+sample_imgs/rescale.png
+sample_imgs/rotate.png
+sample_imgs/seg.png
+src/example_package_YOUR_USERNAME_HERE.egg-info/PKG-INFO
+src/example_package_YOUR_USERNAME_HERE.egg-info/SOURCES.txt
+src/example_package_YOUR_USERNAME_HERE.egg-info/dependency_links.txt
+src/example_package_YOUR_USERNAME_HERE.egg-info/top_level.txt
